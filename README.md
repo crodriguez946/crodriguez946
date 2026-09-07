@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Learning Linux is fun! ✨
+This is my test preview for my GitHub account. We are learning how to use git!
 <!--
 **crodriguez946/crodriguez946** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
