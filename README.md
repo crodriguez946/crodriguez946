@@ -25,7 +25,16 @@ Cybersecurity student with a strong operational background in compliance, risk m
 
 ## 🚀 Featured Projects & Lab Work
 
-### 1. Network Traffic Analysis & Packet Inspection
+### 1. Digital Forensics & Artifact Extraction (Holmes CTF 2026)
+> **Objective:** Conduct forensic triage on a 13.9 GB `.E01` disk image to trace VPN configurations, parse raw database artifacts, and extract compromised credentials.
+- **Environment:** FTK Imager, PowerShell CLI, Regular Expressions (`regex`), Windows File System (`NTFS`).
+- **Key Actions:**
+  - Mounted and navigated a 13.9 GB `.E01` forensic image; isolated user activity profiles and staging notes (`todo.txt`).
+  - Extracted OpenVPN telemetry (`spur.log`) to uncover external server IPs, assigned tunnel addresses, and certificate CNs.
+  - Scripted a custom PowerShell string-carving routine to parse unindexed SQLite application databases (`Logs.db`).
+  - Recovered cleartext credentials (`spurio9@murknet.htb`) through forensic text-pattern reconstruction.
+- 📄 **[Read Full Forensic Investigation Report](./reports/ctf-reichenbach-forensics.md)**
+### 2. Network Traffic Analysis & Packet Inspection
 > **Objective:** Investigate suspicious network activity using Wireshark and command-line packet tools to detect anomalies and protocol abuse.
 - **Environment:** Ubuntu Linux, Wireshark, `tshark`.
 - **Key Actions:**
@@ -36,7 +45,7 @@ Cybersecurity student with a strong operational background in compliance, risk m
 
 ---
 
-### 2. Linux System Administration & Security Hardening
+### 3. Linux System Administration & Security Hardening
 > **Objective:** Deploy, configure, and harden a customized Linux virtual workstation for daily security analysis and tooling.
 - **Environment:** Ubuntu Linux, Kitty Terminal, Bash.
 - **Key Actions:**
@@ -47,7 +56,7 @@ Cybersecurity student with a strong operational background in compliance, risk m
 
 ---
 
-### 3. Healthcare Compliance & Access Risk Evaluation (GRC)
+### 4. Healthcare Compliance & Access Risk Evaluation (GRC)
 > **Objective:** Evaluate security controls and access management policies for sensitive patient and transaction data.
 - **Key Actions:**
   - Audited role-based access control (RBAC) separation to mitigate privilege creep across sensitive records.
