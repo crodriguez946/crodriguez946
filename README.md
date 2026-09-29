@@ -42,7 +42,7 @@ Cybersecurity student with a strong operational background in compliance, risk m
   - Filtered DNS and HTTP traffic to detect anomalous outbound requests and potential malicious beaconing.
   - Extracted transmission artifacts and documented Indicators of Compromise (IoCs) in a structured incident summary.
 - **Key Finding:** Identified unauthorized external requests by isolating protocol timing irregularities.
-
+- 📄 **[Read Full Incident Report Write-Up](./reports/incident-report-dns-triage.md)**
 ---
 
 ### 3. Linux System Administration & Security Hardening
