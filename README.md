@@ -1,9 +1,11 @@
 # Carina Esparza | Cybersecurity Portfolio
+
 📍 San Antonio, TX | 🔗 [LinkedIn](https://www.linkedin.com/in/carina-esparza-199994316) | ✉️ [crodriguez946@student.alamo.edu](mailto:crodriguez946@student.alamo.edu)
 
 ---
 
 ## 🛡️ About Me
+
 Cybersecurity student with a strong operational background in compliance, risk management, and precise documentation, transitioning into hands-on technical defense. Bilingual, detail-oriented, and focused on **SOC Analysis, Threat Detection, and Governance, Risk & Compliance (GRC)**.
 
 - 🎯 **Target Roles:** SOC Analyst (Tier 1) | GRC Analyst | Information Security Associate
@@ -34,6 +36,9 @@ Cybersecurity student with a strong operational background in compliance, risk m
   - Scripted a custom PowerShell string-carving routine to parse unindexed SQLite application databases (`Logs.db`).
   - Recovered cleartext credentials (`spurio9@murknet.htb`) through forensic text-pattern reconstruction.
 - 📄 **[Read Full Forensic Investigation Report](./reports/ctf-reichenbach-forensics.md)**
+
+---
+
 ### 2. Network Traffic Analysis & Packet Inspection
 > **Objective:** Investigate suspicious network activity using Wireshark and command-line packet tools to detect anomalies and protocol abuse.
 - **Environment:** Ubuntu Linux, Wireshark, `tshark`.
@@ -43,6 +48,7 @@ Cybersecurity student with a strong operational background in compliance, risk m
   - Extracted transmission artifacts and documented Indicators of Compromise (IoCs) in a structured incident summary.
 - **Key Finding:** Identified unauthorized external requests by isolating protocol timing irregularities.
 - 📄 **[Read Full Incident Report Write-Up](./reports/incident-report-dns-triage.md)**
+
 ---
 
 ### 3. Linux System Administration & Security Hardening
@@ -66,5 +72,6 @@ Cybersecurity student with a strong operational background in compliance, risk m
 ---
 
 ## 🏆 Certifications & Affiliations
+
 - **Pre-Security Certification** — TryHackMe
 - **Affiliations:** NightHax Cybersecurity Club | DEF CON SATX Group | Phi Theta Kappa Honor Society
