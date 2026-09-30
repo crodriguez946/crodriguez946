@@ -1,6 +1,6 @@
 # Carina Esparza | Cybersecurity Portfolio
 
-📍 San Antonio, TX | 🔗 [LinkedIn](https://www.linkedin.com/in/carina-esparza-199994316) | ✉️ [crodriguez946@student.alamo.edu](mailto:crodriguez946@student.alamo.edu)
+📍 San Antonio, TX | 🔗 [LinkedIn](https://www.linkedin.com/in/carina-esparza-199994316) | ✉️ [summit.tiger1767@eagereverest.com](mailto:summit.tiger1767@eagereverest.com)
 
 ---
 
