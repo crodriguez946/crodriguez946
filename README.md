@@ -71,6 +71,17 @@ Cybersecurity student with a strong operational background in compliance, risk m
 
 ---
 
+### 5. Windows Boot Troubleshooting Knowledge Base
+> **Objective:** Document diagnosis and recovery procedures for two common Windows startup failures ("No Boot Device Found" and BSOD at startup) in a structured, step-by-step knowledge base format.
+- **Environment:** Windows Recovery Environment (WinRE), Command Prompt, BIOS/UEFI.
+- **Key Actions:**
+  - Mapped symptoms to root causes, including drive detection, boot order/mode mismatches, corrupted BCD, bad drivers, and faulty updates.
+  - Documented separate repair paths for UEFI/GPT (`diskpart`, `bcdboot`) and Legacy BIOS/MBR (`bootrec`) systems.
+  - Wrote a BSOD recovery sequence using Safe Mode, driver rollback, update removal, and offline `chkdsk` / `sfc` scans.
+- 📄 **[Read the Full Troubleshooting Guide](./reports/windows-boot-troubleshooting-guide.md)**
+
+---
+
 ## 🏆 Certifications & Affiliations
 
 - **Pre-Security Certification** — TryHackMe
