@@ -53,7 +53,7 @@ Cybersecurity student with a strong operational background in compliance, risk m
 
 ### 3. Linux System Administration & Security Hardening
 > **Objective:** Deploy, configure, and harden a customized Linux virtual workstation for daily security analysis and tooling.
-- **Environment:** Ubuntu Linux, Kitty Terminal, Bash.
+- **Environment:** Ubuntu Linux, Kali Linux, Bash.
 - **Key Actions:**
   - Configured user access controls, file permissions (`chmod`, `chown`), and secure SSH configurations.
   - Automated routine administrative tasks and system status monitoring using custom Bash shell scripting.
