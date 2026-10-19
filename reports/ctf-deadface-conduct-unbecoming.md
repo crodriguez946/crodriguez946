@@ -17,7 +17,8 @@
 
 **File:** `night_veil.jpg` (SHA-256 `6e7809f4a7893b0a8348195d0009181376ef635d465a2ee4279e78115e44f1ba`)
 
-![Conduct Unbecoming challenge card](images/04-card.png)
+<img width="562" height="895" alt="image" src="https://github.com/user-attachments/assets/30493783-1b22-4465-b38d-329faec60529" />
+
 
 ## Initial thoughts
 
@@ -70,7 +71,8 @@ All three came up empty: no matching text, nothing embedded beyond the normal JP
 
 The image is a one-page **Student Conduct Notice** from Night Veil University's Office of Student Conduct, about a student disciplined for flying a drone in the library and putting about 2,300 googly eyes on university property. The document number at the bottom is NVU-OSC-2026-1187, but that identifies the *document*, not the device that created it.
 
-![The recovered conduct notice](images/04-document.jpg)
+<img width="1995" height="2576" alt="image" src="https://github.com/user-attachments/assets/a5e02e74-341b-4817-9850-2361b5fbab38" />
+
 
 The important detail was in the white margin at the **bottom-right corner, near "Page 1 of 1": a faint grid of tiny dots.** That lined up with the tracking-dot theory.
 
@@ -109,7 +111,8 @@ What each part does, and why:
 
 This revealed a clean, regular grid of dots, **8 columns wide and 13 rows tall**, right next to "Page 1 of 1."
 
-![Enhanced tracking dot grid next to "Page 1 of 1"](images/04-dots.png)
+<img width="1200" height="1200" alt="image" src="https://github.com/user-attachments/assets/d67fac29-2d86-4b06-b016-d48269bb23ef" />
+
 
 ### 7. Decode the grid
 
