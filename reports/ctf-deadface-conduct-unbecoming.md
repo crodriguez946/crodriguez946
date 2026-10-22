@@ -118,7 +118,7 @@ This revealed a clean, regular grid of dots, **8 columns wide and 13 rows tall**
 
 **Why read it as binary:** a regular grid of dots and blanks is a natural way to store bits (dot = 1, blank = 0). With exactly 8 columns, each row could be one byte, the standard size of an ASCII character.
 
-Counting 96 dots by eye is error-prone, so each grid position was sampled with a short Python script (written and run with Claude's help on my zoomed screenshot) that checked whether each spot was dark:
+Counting 96 dots by eye is error-prone, so each grid position was sampled with a short Python script (written with Claude's help on my zoomed screenshot) that checked whether each spot was dark:
 
 ```
 ########   marker row (all dots)
